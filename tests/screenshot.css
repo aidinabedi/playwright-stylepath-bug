@@ -1,0 +1,4 @@
+/* Give all elements a yellow background by default */
+* {
+  background-color: yellow;
+}
